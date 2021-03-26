@@ -9,6 +9,12 @@ body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
+.name{
+  text-align: center; 
+  color:white;
+  margin-top: 10px;
+  font-family: 'Quicksand', sans-serif;
+}
 .cont {
   position: relative;
   overflow: hidden;
